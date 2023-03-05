@@ -1,5 +1,5 @@
 # Learn-ActionBar
 
-- Menambahkan Option Menu pada ActionBar.
-- Menambahkan aksi ketika Option Menu dipilih.
-- Menambahkan SearchView pada ActionBar.
+- Add an Option Menu to the ActionBar.
+- Add an action when the Option Menu is selected.
+- Add a SearchView to the ActionBar.
